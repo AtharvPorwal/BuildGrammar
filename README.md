@@ -1,4 +1,4 @@
-Repository Name: ReactGrammarCorrectionApp
+Repository Name: GramCheckHub
 
 Description:
 Welcome to the React Grammar Correction App repository! This powerful web application leverages React, a popular JavaScript library, to provide users with an intuitive and efficient tool for enhancing their written communication. Say goodbye to grammar mistakes and hello to polished, error-free content!
